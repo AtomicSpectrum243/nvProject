@@ -4,7 +4,6 @@ import React from "react";
 import FirstPage from "./Screens/FirstPage";
 import SecondPage from "./Screens/SecondPage";
 
-
 const Stack = createNativeStackNavigator();
 
 export default function App() {
