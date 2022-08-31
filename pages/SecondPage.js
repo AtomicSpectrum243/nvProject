@@ -18,7 +18,7 @@ const SecondPage = ({navigation}) => {
             />
             </View>
             <Text style={styles.textBottomSytel}>
-                Thai-Nichi Institute of Technology.
+                Thai-Nichi Institute of Technology
             </Text>
         </View>
     );
