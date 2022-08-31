@@ -17,4 +17,4 @@ const styles = StyleSheet.create({
         color: 'grey'
     }
 })
-export default styles 
+export default styles;
